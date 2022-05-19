@@ -1,0 +1,34 @@
+*{
+	margin:0;
+}
+#player
+{
+	width:360px;
+	background-color:rgba(233,72,72);
+	position:absolute;
+	left:50%;
+	transform:translateX(-50%);
+}
+header
+{
+	text-align:center;
+	color:white;
+	margin-top:20px;
+	height:300px;
+}
+header img
+{
+	height:140px;
+	
+}
+header h2
+{
+	margin:20px 0;
+}
+header p{
+	font-size:22px;
+}
+#content
+{
+	background-color:aliceblue;
+}
